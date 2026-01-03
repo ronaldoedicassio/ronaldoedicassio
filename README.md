@@ -1,20 +1,13 @@
 # Hi there 👋 I'm Ronaldo
 
-<div align="center">
+<div align="center" style="display:flex;justify-content:center;gap:12px;align-items:center;flex-wrap:wrap">
   <a href="https://github.com/ronaldoedicassio">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronaldoedicassio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ronaldo's GitHub stats" />
+  </a>
+  <a href="https://github.com/ronaldoedicassio">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoedicassio&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
   </a>
 </div>
-
----
-
-## Sobre mim
-- 👋 Olá! Meu nome é Ronaldo — desenvolvedor focado em backend e aplicações web.
-- 💼 Gosto de construir APIs bem projetadas usando Java e Spring.
-- ⚡ Habilidades em front-end com HTML/CSS, JavaScript e Vue.js.
-- 📚 Sempre aprendendo: boas práticas, design de APIs e novas ferramentas.
-
 ---
 
 ## Tecnologias & Ferramentas
@@ -33,19 +26,9 @@
 ---
 
 ## Em que estou trabalhando
-- Fortalecendo habilidades em Spring Boot e arquitetura de microserviços.
+- Fortalecendo habilidades em FastAPI.
 - Melhorando testes automatizados e integração contínua.
 - Construindo projetos pessoais que demonstram APIs REST e integrações com bancos de dados.
-
----
-
-## Projetos em destaque
-> Adicione aqui links diretos para os repositórios do seu portfólio. Exemplo de template:
-
-- [Nome-do-Projeto-1](https://github.com/ronaldoedicassio/REPO-1) — Uma breve descrição do que o projeto faz e tecnologias usadas.
-- [Nome-do-Projeto-2](https://github.com/ronaldoedicassio/REPO-2) — Uma breve descrição.
-
-Dica: destaque 3 projetos com uma linha sobre o problema que resolveu, tech stack e link para o repositório/demo.
 
 ---
 
@@ -62,14 +45,6 @@ Dica: destaque 3 projetos com uma linha sobre o problema que resolveu, tech stac
   </a>
 </div>
 
----
-
-## Quer ajuda com o README?
-Posso:
-- Ajustar o texto para inglês ou bilingue.
-- Gerar cards automáticos para projetos (com template já preenchido).
-- Sugerir badges extras (CI, coverage, languages) ou adicionar um GIF animado.
-- Montar um pequeno portfólio em formato de README com previews.
 
 Obrigado por visitar meu perfil! 🚀  
 <!-- Última atualização: 2026-01-03 -->
