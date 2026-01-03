@@ -1,25 +1,75 @@
-### Hi there 👋, My name is Ronaldo
+# Hi there 👋 I'm Ronaldo
+
 <div align="center">
   <a href="https://github.com/ronaldoedicassio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldoedicassio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoedicassio&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronaldoedicassio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ronaldo's GitHub stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoedicassio&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
+  </a>
 </div>
-  
-  ##
-<div img align="center" style="display: inline_block"><br>
-  <img align="center" alt="Ronaldo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Ronaldo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ronaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ronaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ronaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ronaldo-spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Ronaldo-sql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Ronaldo-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-</div>
-  
-  ##
- <div img align="center"> 
-  <a href = "mailto:ronaldo.edicassio@gmail.com"><img alt="Ronaldo-Gmail" height="28" width="110" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronaldo-siqueira-1506481b/" target="_blank"><img alt="Ronaldo-linkedin" height="28" width="110"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+---
+
+## Sobre mim
+- 👋 Olá! Meu nome é Ronaldo — desenvolvedor focado em backend e aplicações web.
+- 💼 Gosto de construir APIs bem projetadas usando Java e Spring.
+- ⚡ Habilidades em front-end com HTML/CSS, JavaScript e Vue.js.
+- 📚 Sempre aprendendo: boas práticas, design de APIs e novas ferramentas.
+
+---
+
+## Tecnologias & Ferramentas
+<div align="center">
+  <img alt="Java"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"      height="36" width="36" />
+  <img alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="36" />
+  <img alt="Python"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" width="36" />
+  <img alt="HTML5"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="36" width="36" />
+  <img alt="CSS3"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36" />
+  <img alt="Spring"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="36" width="96" />
+  <img alt="MySQL"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" width="96" />
+  <img alt="Vue.js"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="36" width="96" />
+  <img alt="FastAPI"     src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="36" width="96" />
 </div>
+
+---
+
+## Em que estou trabalhando
+- Fortalecendo habilidades em Spring Boot e arquitetura de microserviços.
+- Melhorando testes automatizados e integração contínua.
+- Construindo projetos pessoais que demonstram APIs REST e integrações com bancos de dados.
+
+---
+
+## Projetos em destaque
+> Adicione aqui links diretos para os repositórios do seu portfólio. Exemplo de template:
+
+- [Nome-do-Projeto-1](https://github.com/ronaldoedicassio/REPO-1) — Uma breve descrição do que o projeto faz e tecnologias usadas.
+- [Nome-do-Projeto-2](https://github.com/ronaldoedicassio/REPO-2) — Uma breve descrição.
+
+Dica: destaque 3 projetos com uma linha sobre o problema que resolveu, tech stack e link para o repositório/demo.
+
+---
+
+## Contato
+<div align="center">
+  <a href="mailto:ronaldo.edicassio@gmail.com">
+    <img alt="Gmail" height="28" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ronaldo-siqueira-1506481b/" target="_blank">
+    <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ronaldoedicassio" target="_blank">
+    <img alt="GitHub" height="28" src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## Quer ajuda com o README?
+Posso:
+- Ajustar o texto para inglês ou bilingue.
+- Gerar cards automáticos para projetos (com template já preenchido).
+- Sugerir badges extras (CI, coverage, languages) ou adicionar um GIF animado.
+- Montar um pequeno portfólio em formato de README com previews.
+
+Obrigado por visitar meu perfil! 🚀  
+<!-- Última atualização: 2026-01-03 -->
