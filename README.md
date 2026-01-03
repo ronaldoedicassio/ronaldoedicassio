@@ -1,14 +1,5 @@
 # Hi there 👋 I'm Ronaldo
 
-<div align="center" style="display:flex;justify-content:center;gap:12px;align-items:center;flex-wrap:wrap">
-  <a href="https://github.com/ronaldoedicassio">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronaldoedicassio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ronaldo's GitHub stats" />
-  </a>
-  <a href="https://github.com/ronaldoedicassio">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoedicassio&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
-  </a>
-</div>
----
 
 ## Tecnologias & Ferramentas
 <div align="center">
